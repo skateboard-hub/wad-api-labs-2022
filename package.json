@@ -5,6 +5,7 @@
     "eslint-plugin-react": "^7.31.11"
   },
   "dependencies": {
+    "express-async-handler": "^1.2.0",
     "mongoose": "^6.7.5",
     "uniqid": "^5.4.0"
   }
